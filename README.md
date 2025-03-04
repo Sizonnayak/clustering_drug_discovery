@@ -31,5 +31,7 @@ $ docker build -t {image}:{tag} .
 $ docker run --rm -it -v {/local/path}:{/container_path} {image}:{tag} /bin/bash
 
 
+This project uses https://github.com/mqcomplab/bitbirch, which is licensed under the LGPL 3.0 License.
+See the LICENSE file for the full terms.
 
 
