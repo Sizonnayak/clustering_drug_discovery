@@ -1,7 +1,9 @@
 ##############################  conda env setup ###############################
 
 $ conda create -n {env_name} python=3.12
+
 $ conda activate {env name}
+
 $ pip install -r requirements.txt
 
 ##############################  clustering run  ###############################
